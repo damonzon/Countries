@@ -18,7 +18,7 @@ devtools::install_github("damonzon/Countries",force = TRUE)
 You can install the tar.gz version of Countries like this:
 
 ``` r
-install.packages("Countries_0.1.0.tar.gz",
+install.packages("Countries_0.1.tar.gz",
        repos = NULL, type="source")
 library(Countries)
 ```
